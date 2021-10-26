@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Dynamic-route",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

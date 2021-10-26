@@ -1,0 +1,8 @@
+{
+  "name": "Dynamic-route",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "d69686a9"
+}
